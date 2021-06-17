@@ -16,8 +16,6 @@
 
 - 🧑‍💼 Je suis a la recherche d'un job en tant que Front-end | ReactJS DEV
 
-- 🔭 Je suis en train d'écrire des tests pour mon blog [Blog-App](https://egzonberisha.fr/#/)
-
 - 📝 Mon blog - chaque semaine un nouvel article - [https://egzonberisha.fr/#/](https://egzonberisha.fr/#/)
 
 - ⚡ Fun fact **Quand tu penses à ton cerveau, ton cerveau pense à lui-même.**
