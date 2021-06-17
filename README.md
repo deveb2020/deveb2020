@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Egzon</h1>
 <h3 align="center">I'am a front end developer and my secret weapon is ReactJS</h3>
 
-- 🧑‍💼 I’m looking for a job as **Front End | ReactJS DEV**
+- 🧑‍💼 Je suis un développeur front-end et mon arme secrète est ReactJS
 
-- 🔭 I’m currently testing my blog [Blog-App](https://egzonberisha.fr/#/)
+- 🔭 Je suis en train d'écrire des tests pour mon blog [Blog-App](https://egzonberisha.fr/#/)
 
-- 📝 My Blog - weekly posts - [https://egzonberisha.fr/#/](https://egzonberisha.fr/#/)
+- 📝 Mon blog - chaque semaine un nouvel article - [https://egzonberisha.fr/#/](https://egzonberisha.fr/#/)
 
-- 📫 How to reach me **egzonberisha232@gmail.com**
+- 📫 Contactez moi **egzonberisha232@gmail.com**
 
-- ⚡ Fun fact **The first oranges weren’t orange**
-( The original oranges from Southeast Asia were a tangerine-pomelo hybrid, and they were actually green. In fact, oranges in warmer regions like Vietnam and Thailand still stay green through maturity. )
+- ⚡ Fun fact **Quand tu penses à ton cerveau, ton cerveau pense à lui-même.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
