@@ -2,17 +2,11 @@
 <h3 align="center">Je suis un développeur Front-end | ReactJS 🚀</h3><br/>
  
 <div align="center">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/egzonberishabordeaux/">
+  <img alt="Egzon's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img  alt="Egzon's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=deveb2020"></img>
 </div>
@@ -25,10 +19,6 @@
 - 🔭 Je suis en train d'écrire des tests pour mon blog [Blog-App](https://egzonberisha.fr/#/)
 
 - 📝 Mon blog - chaque semaine un nouvel article - [https://egzonberisha.fr/#/](https://egzonberisha.fr/#/)
-
-- 📫 Contactez moi **egzonberisha232@gmail.com** ou <span align="left">
-  <a href="https://www.linkedin.com/in/egzonberishabordeaux/" target="_blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="https://www.linkedin.com/in/egzonberishabordeaux/" height="20" width="20" /></a>
-</span>
 
 - ⚡ Fun fact **Quand tu penses à ton cerveau, ton cerveau pense à lui-même.**
 
