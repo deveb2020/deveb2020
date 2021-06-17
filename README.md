@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **egzonberisha232@gmail.com**
 
-- ⚡ Fun fact **The first oranges weren’t orange **
+- ⚡ Fun fact **The first oranges weren’t orange**
 ( The original oranges from Southeast Asia were a tangerine-pomelo hybrid, and they were actually green. In fact, oranges in warmer regions like Vietnam and Thailand still stay green through maturity. )
 
 <h3 align="left">Connect with me:</h3>
