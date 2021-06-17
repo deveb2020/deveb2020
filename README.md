@@ -25,7 +25,6 @@
 
 <h3>Latest blog posts</h3>
 <!-- BLOG-POST-LIST:START -->
-- [This is another article test](https://dev.to/deveb2020/this-is-another-article-test-2l5b)
 - [This is a test article for Github-Actions](https://dev.to/deveb2020/this-is-a-test-article-just-fort-github-pages-4e7g)
 <!-- BLOG-POST-LIST:END -->
 
