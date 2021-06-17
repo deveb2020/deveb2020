@@ -1,6 +1,6 @@
-<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, i'am Egzon.
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, i'am Egzon.
 <h3 align="center">Je suis un développeur Front-end | ReactJS 🚀</h3><br/>
-(https://visitor-badge.glitch.me/badge?page_id=deveb2020)
+<img src="https://visitor-badge.glitch.me/badge?page_id=deveb2020"></img>
 
 
 - 🧑‍💼 Je suis a la recherche d'un job en tant que Front-end | ReactJS DEV
