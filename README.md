@@ -25,7 +25,7 @@
 
 <h4>Latest blog posts</h4>
 <!-- BLOG-POST-LIST:START  [$title]-->
-- [This is a test article for Github-Actions](https://dev.to/deveb2020/this-is-a-test-article-just-fort-github-pages-4e7g)
+- $title
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
