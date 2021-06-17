@@ -9,7 +9,7 @@
 - 📝 Mon blog - chaque semaine un nouvel article - [https://egzonberisha.fr/#/](https://egzonberisha.fr/#/)
 
 - 📫 Contactez moi **egzonberisha232@gmail.com** ou <span align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/egzonberishabordeaux/" target="blank"><img align="center"        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="https://www.linkedin.com/in/egzonberishabordeaux/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/egzonberishabordeaux/" target="blank"><img align="center"        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="https://www.linkedin.com/in/egzonberishabordeaux/" height="20" width="30" /></a>
 </span>
 
 - ⚡ Fun fact **Quand tu penses à ton cerveau, ton cerveau pense à lui-même.**
