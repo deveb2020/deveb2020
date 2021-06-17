@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Egzon</h1>
-<h3 align="center">Je suis un développeur front-end et mon arme secrète est ReactJS 🚀</h3>
+<h3 align="center">Je suis un développeur front-end | Mon arme secrète est ReactJS 🚀</h3>
 
 
 - 🧑‍💼 Je suis a la recherche d'un job en tant que Front-end | ReactJS DEV
