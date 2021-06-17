@@ -12,10 +12,7 @@
 
 - ⚡ Fun fact **Quand tu penses à ton cerveau, ton cerveau pense à lui-même.**
 
-
-
-
-
+<br/>
 <div align="center">
   <h4 align="left">Langues utilisées au cours des 7 derniers jours ( <i>mise à jour automatique quotidienne depuis wakatime </i>)</h3>
   <img  src="https://wakatime.com/share/@2e54b860-cf1f-4a7c-9b1f-cf8a344b3087/80b6c10f-a040-413f-a4b3-d8e77d7a7d79.svg" height="350" width="100%"></img>
