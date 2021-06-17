@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 5rem" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%, height: 20%" />
 </div>  
 <h3 align="center">Je suis un développeur front-end | Mon arme secrète est ReactJS 🚀</h3>
 
