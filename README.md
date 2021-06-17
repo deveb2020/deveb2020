@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 🖐️, i'am Egzon.
-<h3 align="center">Je suis un développeur front-end | ReactJS 🚀</h3>
+<h3 align="center">Je suis un développeur Front-end | ReactJS 🚀</h3>
 
 
 - 🧑‍💼 Je suis a la recherche d'un job en tant que Front-end | ReactJS DEV
