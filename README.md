@@ -1,5 +1,6 @@
 <h1 align="center"> Hi 🖐️, i'am Egzon.
 <h3 align="center">Je suis un développeur Front-end | ReactJS 🚀</h3><br/>
+![](https://visitor-badge.glitch.me/badge?page_id=deveb2020)
 
 
 - 🧑‍💼 Je suis a la recherche d'un job en tant que Front-end | ReactJS DEV
