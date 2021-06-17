@@ -6,7 +6,7 @@
   <img alt="Egzon's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img  alt="Egzon's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img  alt="Egzon's Spotify" width="22px" src="https://icons8.com/icon/qyRpAggnV0zH/gmail" />
 </a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=deveb2020"></img>
 </div>
