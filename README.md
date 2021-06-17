@@ -13,7 +13,7 @@
 <br />
 
 
-- 🧑‍💼 Je suis a la recherche d'un job en tant que Front-end | ReactJS DEV
+- 🔍 Je suis a la recherche d'un job en tant que Front-end | ReactJS DEV
 
 - 📝 Mon blog - chaque semaine un nouvel article - [https://egzonberisha.fr/#/](https://egzonberisha.fr/#/)
 
