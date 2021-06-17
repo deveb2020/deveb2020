@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Egzon</h1>
+https://rishavanand.github.io/static/images/greetings.gif
 <h3 align="center">Je suis un développeur front-end | Mon arme secrète est ReactJS 🚀</h3>
 
 
