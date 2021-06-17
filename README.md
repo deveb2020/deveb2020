@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="350" width="100%"/>
-</div>  
+<h1 align="center"> Hi 🖐️, i'am Egzon.
 <h3 align="center">Je suis un développeur front-end | Mon arme secrète est ReactJS 🚀</h3>
 
 
