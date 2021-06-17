@@ -5,8 +5,8 @@
 <a href="https://www.linkedin.com/in/egzonberishabordeaux/">
   <img alt="Egzon's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img  alt="Egzon's Spotify" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail-new.png" />
+<a href="mailto: egzonberisha232@gmail.com">
+  <img  alt="Egzon's Email" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail-new.png" />
 </a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=deveb2020"></img>
 </div>
