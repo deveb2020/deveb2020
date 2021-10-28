@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://app.daily.dev/DailyDevTips">
- <img src="https://github.com/deveb2020/deveb2020/blob/master/devcard.svg" width="400" alt="Egzon BERISHA's Dev Card"/>
+ <img src="https://github.com/deveb2020/deveb2020/blob/main/devcard.svg" width="400" alt="Egzon BERISHA's Dev Card"/>
 </a>
 
 
