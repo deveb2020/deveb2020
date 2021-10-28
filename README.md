@@ -12,10 +12,11 @@
 </div>
 <br />
 
-<a href="https://app.daily.dev/DailyDevTips" align="center">
+<div align="center">
+<a href="https://app.daily.dev/DailyDevTips" >
  <img style="text-align:center" src="https://github.com/deveb2020/deveb2020/blob/main/devcard.svg" width="400" alt="Egzon BERISHA's Dev Card"/>
 </a>
-
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
