@@ -12,12 +12,7 @@
 </div>
 <br />
 
-
-<a href="https://app.daily.dev/Egib" style='text-align: center'>
- <img src="https://api.daily.dev/devcards/f74de5fab36a4b59b008e514fcf05d67.png?r=932" width="400" alt="Egzon BERISHA's Dev Card"/>
-</a>
-
-<a href="https://app.daily.dev/DailyDevTips">
+<a href="https://app.daily.dev/DailyDevTips" style="text-align:center">
  <img src="https://github.com/deveb2020/deveb2020/blob/main/devcard.svg" width="400" alt="Egzon BERISHA's Dev Card"/>
 </a>
 
