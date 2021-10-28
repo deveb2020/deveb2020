@@ -13,11 +13,7 @@
 <br />
 
 
-- 🔍 Je suis a la recherche d'un job en tant que Front-end | ReactJS DEV
-
-- 📝 Mon blog - chaque semaine un nouvel article - [https://egzonberisha.fr/#/](https://egzonberisha.fr/#/)
-
-- ⚡ Fun fact **Quand tu penses à ton cerveau, ton cerveau pense à lui-même.**
+<a href="https://app.daily.dev/Egib"><img src="https://api.daily.dev/devcards/f74de5fab36a4b59b008e514fcf05d67.png?r=932" width="400" alt="Egzon BERISHA's Dev Card"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
